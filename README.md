@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanthall
 - 👀 I’m interested in docker, kubernetes and ansible
-- 🌱 I’m currently learning Docker, kubernetes , ansible etc
+- 🌱 I’m currently learning Bash scripting, Docker, kubernetes , ansible etc
 - 💞️ I’m looking to collaborate on project for beginners
 - 📫 How to reach me llshanthall@gmail.com
 
